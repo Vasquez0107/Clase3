@@ -1,0 +1,32 @@
+table, td, th {
+    border: 2px solid black;
+}
+
+td, th {
+    padding: 5px ;
+}
+
+table {
+    background-color: azure;
+    margin-top: -20px;
+}
+
+div {
+    background-color: blueviolet;
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+}
+
+#patroclo {
+    color: brown;
+    background-color: blueviolet;
+}
+#jiret {
+    color: brown;
+    background-color: blueviolet;
+}
+
+#camilo {
+    color: blue;
+}
